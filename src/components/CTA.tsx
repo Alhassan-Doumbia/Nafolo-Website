@@ -7,13 +7,14 @@ export default function CTA() {
         <div className="bg-yellow-500 rounded-2xl p-12 relative overflow-hidden">
           <div className="max-w-2xl relative z-10">
             <h2 className="text-4xl font-bold text-black mb-6">
-              Ready to Start Your Investment Journey?
+            Prêt à commencer votre voyage financier halal ?
             </h2>
             <p className="text-xl text-black/80 mb-8">
-              Join thousands of successful investors who trust WealthPeak with their financial future.
+              Nous sommes là pour vous aider à atteindre vos objectifs financiers de manière responsable et halal
+              devenez un futur investisseur confiant en son avenir financier . 
             </p>
             <button className="bg-black text-white px-8 py-3 rounded-lg hover:bg-white hover:text-black transition-colors">
-              Schedule a Consultation
+              Réservez un entretien 
             </button>
           </div>
           <div className="absolute right-0 top-0 w-1/3 h-full opacity-10">
